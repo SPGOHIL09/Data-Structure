@@ -75,7 +75,7 @@ class MyQueue
 		else
 		{
 			
-			if(f > r)
+			if(f == r)
 			{
 				f = -1;
 				r = -1;
